@@ -1,0 +1,199 @@
+ @keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+ .container1 {
+    position: relative;
+	width: 100%;
+	border: none;	
+}
+
+.hw {
+	width: 100%;
+	padding-top: 5vh;
+}
+
+.button1 {
+	position: absolute;
+	background-color: #BF3706;
+	border: none;
+	border-radius: 25px;
+	color: #FEC8CC;
+  	cursor: pointer;
+  	text-align: center;
+  	font-size: 25px;
+  	font-family: Palatino, serif;
+  	padding-top: 20px;
+  	padding-bottom: 20px;
+  	padding-left: 50px;
+  	padding-right:50px;
+  	margin-top: 70vh;
+  	margin-left: 19vw;
+}
+
+#grad {
+  background-image: radial-gradient(circle,white,black);
+}
+
+.container2 {
+    position: relative;
+	width: 100%;
+	border: none;	
+}
+
+.icon{
+	height: 40%;
+	padding-left:30vw;
+	padding-top: 9vh;
+}
+
+.button2 {
+	position: absolute;
+	background-color: transparent;
+	border: none;
+	border-radius: 50%;
+	height: 162px;
+  	width: 162px;
+  	cursor: pointer;
+  	margin-top: 37.4vh;
+  	margin-left: 39.85vw;
+}
+
+.container3 {
+	position: relative;
+	width: 100%;
+	border: none;
+}
+
+#tiktok {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.button3 {
+	position: absolute;
+	background-color: #85B29B;
+	border: none;
+	border-radius: 25px;
+	color: white;
+  	cursor: pointer;
+  	text-align: center;
+  	font-size: 20px;
+  	font-family: Palatino, serif;
+  	padding-top: 10px;
+  	padding-bottom: 10px;
+  	padding-left: 30px;
+  	padding-right:30px;
+  	margin-top: 60vh;
+  	margin-left: 36.5vw;
+}
+
+#fadedButton {
+    
+}
+
+.container4 {
+	position: relative;
+	width: 100%;
+	border: none;
+}
+
+.ad {
+	height: 70vh;
+	padding-left:30vw;
+}
+
+.button4 {
+	position: absolute;
+	background-color: #405942;
+	border: none;
+	border-radius: 25px;
+	color: white;
+  	cursor: pointer;
+  	text-align: center;
+  	font-size: 20px;
+  	font-family: Palatino, serif;
+  	padding-top: 10px;
+  	padding-bottom: 10px;
+  	padding-left: 30px;
+  	padding-right:30px;
+  	margin-top: 65vh;
+  	margin-left: 85vw;
+}
+
+.text1 {
+	color: #73412F;
+	font-size: 40px;
+	text-align: center;
+	font-family: Luminari, fantasy;
+}
+
+#factFade{
+
+}
+
+.container5 {
+	position: relative;
+	width: 100%;
+	border: none;
+}
+
+.facts{
+	position: absolute;
+	width: 99%;
+	margin:0px;
+}
+
+#alertalert {
+    visibility: hidden;
+}
+
+.factsalert{
+	width: 100%;
+	margin:0px;
+}
+
+.remindButton{
+	position: absolute;
+	background-color: transparent;
+	border: none;
+	border-radius: 30px;
+  	cursor: pointer;
+  	padding-top:1vh;
+  	padding-bottom:1vh;
+  	padding-left:5vw;
+  	padding-right:8vw;
+  	margin-top: 60vh;
+  	margin-left: 42vw;
+}
+
+.downloadButton{
+	position: absolute;
+	background-color: transparent;
+	border: none;
+	border-radius: 30px;
+  	cursor: pointer;
+  	padding-top:1vh;
+  	padding-bottom:1vh;
+  	padding-left:5vw;
+  	padding-right:8vw;
+  	margin-top: 55vh;
+  	margin-left: 42vw;
+}
+
+#fact1 {
+
+}
